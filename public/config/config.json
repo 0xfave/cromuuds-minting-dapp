@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x18E94693F4134bc2caaBb9f34eB51B5b5cDa680b",
+  "SCAN_LINK": "https://cronoscan.com/address/0x18E94693F4134bc2caaBb9f34eB51B5b5cDa680b",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "Cromuuds",
+  "SYMBOL": "CMD",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Ebisu Bay",
+  "MARKETPLACE_LINK": "https://Ebisubay.io/collection/",
+  "SHOW_BACKGROUND": true
+}
